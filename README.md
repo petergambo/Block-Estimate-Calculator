@@ -1,5 +1,5 @@
 # Block-Estimate-Calculator
-This is a python application that compute and calculate sandcrede blocks for a structure. It is easy to use and simply requires the length and height of walls to calculate the number of sancrede blocks required
+This is a python application that compute and calculate the number of sandcrede blocks for a structure. It is easy to use and simply requires the length and height of walls to tell you the number of sancrede blocks of size 225mm x 225mm x 675mm
 ## Requirement
 This app runs on Python and therefore requires Python installed on your PC
 ## Installation
